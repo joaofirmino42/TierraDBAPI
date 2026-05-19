@@ -1,0 +1,49 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# NuGet
+packages/
+*.nupkg
+
+# Configurações locais
+appsettings.Development.json
+
+# Banco SQLite
+*.db
+*.sqlite
+
+# Publicação
+publish/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Cobertura de testes
+coverage/
+TestResults/
+
+# Docker
+docker-compose.override.yml
+
+# Secrets
+secrets.json

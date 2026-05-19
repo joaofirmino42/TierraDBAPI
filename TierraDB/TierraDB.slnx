@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TierraDB.API/TierraDB.API.csproj" />
+  <Project Path="TierraDb.Business/TierraDb.Business.csproj" />
+  <Project Path="TierraDB.Dal/TierraDB.Dal.csproj" />
+</Solution>
